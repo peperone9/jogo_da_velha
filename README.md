@@ -4,8 +4,8 @@ Jogo da velha feito em C
 ## Como jogar?
 
 ### Linux
-  sudo apt install gcc
-  gcc velha.c -o velha
+  sudo apt install gcc \n
+  gcc velha.c -o velha \n
   sudo chmod u+x velha
   ./velha
 
